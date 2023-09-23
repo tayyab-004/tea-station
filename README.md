@@ -6,8 +6,6 @@ Welcome to Tea Station, your one-stop destination for all things tea and web des
 
 **Tea Station** is more than just a website; it's a delightful blend of HTML, CSS, JavaScript, and a dash of Font Awesome icons. If you have a passion for tea and appreciate the art of web design, you're in for a treat!
 
-Tea-Station is live here:
-https://tea-stationing.netlify.app/
 
 ## Features
 
