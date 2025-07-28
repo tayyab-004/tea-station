@@ -19,8 +19,8 @@ Welcome to Tea Station, your one-stop destination for all things tea and web des
 
 1. **Clone the Repository**: Get your hands on this project by cloning the repository to your local machine.
 
-    ```shell
-    git clone https://github.com/your-username/tea-station.git
+    ```
+    git clone https://github.com/tayyab-004/tea-station.git
     ```
 
 2. **Open `index.html`**: Navigate to the project folder and open `index.html` in your preferred web browser.
@@ -50,10 +50,6 @@ We love collaboration! Whether you're a tea aficionado or a web design enthusias
 3. Infuse your magic into the project.
 4. Push your changes to your fork: `git push origin your-branch-name`.
 5. Steep a pull request with your enhancements.
-
-## License
-
-This project brews under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
